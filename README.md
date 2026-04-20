@@ -60,17 +60,19 @@ The system tracks:
 
 ### 🟢 Escape Wins
 
-outputs/EscapeWins.png
+![Escape Wins](outputs/EscapeWins.png)
 
 ### 🔴 Hunter Wins
 
-outputs/HunterWins.png
+![Hunter Wins](outputs/HunterWins.png)
 
 
 ### 📊 Performance Example
 
-outputs/EscapePerformance.png
-outputs/HunterPerformance.png
+![Escape Performance](outputs/EscapePerformance.png)
+
+![Hunter Performance](outputs/HunterPerformance.png)
+
 
 ---
 
